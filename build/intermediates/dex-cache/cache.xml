@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/exploded-aar/com.github.hotchemi/permissionsdispatcher/2.0.7/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="29af0f4b1d0f855e54d965157ab303ccd0a033d0">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.hotchemi-permissionsdispatcher-2.0.7_bf4196bc4ac01ca8a5f460fb8ac55b6e8fa52265/classes.dex" />
+    </item>
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_ce9fe1c5104bb47648d0d62348340e1c4013509b/classes.dex" />
+    </item>
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="821f0c24098dd2cb5b2a45b0097aafa15c8d6d17">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8153a4844a971f8ba2e4ec3cbe898bd2f2e21bfc/classes.dex" />
+    </item>
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_1e91afca7045f67347771b5114d42d77651f0fe2/classes.dex" />
+    </item>
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/libs/ffmpeg.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec25f3ec8c0faac8bad0d16f61210766a7220027">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/ffmpeg_418875627c89069c461759bcba9657f39489e02c/classes.dex" />
+    </item>
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_35011350035cc9f5139e95b114a2ad16bb979ede/classes.dex" />
+    </item>
+    <item
+        jar="/home/jess/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.0.1_eab072a0c42d22523639debe1d2f1c60b4542c79/classes.dex" />
+    </item>
+    <item
+        jar="/opt/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_a5f724aa4c30bd8b758e68b13a4f2d3c5a8c0311/classes.dex" />
+    </item>
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.0.1_97a4172a6bd9d3fa728b3fc2844c6e7c1f4e4248/classes.dex" />
+    </item>
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_35590b5c4e2f630c9acd83e3750406c9a8e5c3b4/classes.dex" />
+    </item>
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_86e1c0556e6f18426bcbff1ba0d7bb208d01b063/classes.dex" />
+    </item>
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_8e77ae178c091620b4f5a467eb635344708f8f86/classes.dex" />
+    </item>
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/libs/javacv.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="02fd1a7b7d272f6eb38f17bc2292b08ef3c0ca5f">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/javacv_57a5a423c26277354bc979c616dd780f88300e36/classes.dex" />
+    </item>
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1334cc7fcbd9db29da0f363f1af314a1747796bc">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_23a3a4063d662e860eed26f96d1a7d1deafbb773/classes.dex" />
+    </item>
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/libs/javacpp.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9f81b79b01100bdb8e3315d024da0ca79b1ceb61">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/javacpp_9887c9cdc2189595485cc6dce6120f015d6e1363/classes.dex" />
+    </item>
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_6925bfd28a5d98d3e3535ef493dedba16943ca25/classes.dex" />
+    </item>
+    <item
+        jar="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/tmp/JavaCVWowzaStarterKit-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_3c970bf6404d10c1de93f8c701cd3a9578115caf/classes.dex" />
+    </item>
+
+</items>
